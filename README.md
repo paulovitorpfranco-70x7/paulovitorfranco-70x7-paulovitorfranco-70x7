@@ -1,93 +1,109 @@
 # Paulo Vitor Franco
 
-## AI-Assisted Software Builder
+## AI-Assisted SaaS Builder | Architecture-Focused | Multi-Tenant Systems
 
-I design and build scalable SaaS systems using AI-assisted development.
+I design and build production-oriented SaaS systems using AI-assisted development.
 
-My focus is not just coding — it’s architecture, product structure, and business viability.
-
----
-
-## What I Do
-
-- Design systems using Clean Architecture
-- Apply Domain-Driven Design principles
-- Build multi-tenant SaaS applications
-- Structure frontend and backend separation
-- Use AI as a development accelerator, not a shortcut
+My focus is architecture, product structure, scalability and business viability — not just writing code.
 
 ---
 
-## Current Projects
+## 🚀 Current SaaS Projects
 
-### Silabala+
+### 💎 Crystal Flow
+Multi-tenant WhatsApp CRM/Helpdesk for pharmacy networks.
+
+**Core Concepts:**
+- Real-time ticket system (Socket.IO)
+- Multi-store isolation (Row Level Security)
+- Role-based access control (RBAC)
+- Operational dashboard with live metrics
+- CI/CD with security auditing
+
+**Stack:** React 18 · TypeScript · Supabase · Express · Socket.IO · Baileys · PostgreSQL
+
+---
+
+### 🧵 Silabala+
 SaaS platform for artisan entrepreneurs.
+
 - Advanced pricing logic
-- Production cost calculation
-- Business intelligence dashboard
-- Multi-tenant architecture
-
-### DataCheck
-Pharmacy product expiration management system.
-- Expiry tracking
-- Alert system (Email / WhatsApp integration planned)
-- Role-based access
-- SaaS-ready backend
-
-### Bible Study Strong (In Progress)
-Structured biblical study platform using Strong references and semantic organization.
+- Production cost engine
+- Business dashboard
+- Multi-tenant structure
 
 ---
 
-## Tech Stack
+### 💊 DataCheck
+Pharmacy expiration management platform.
+
+- Expiry control system
+- Alert workflows
+- SaaS-ready backend
+- Clean Architecture oriented structure
+
+---
+
+### 📖 Bible Study Strong (In Progress)
+Semantic biblical study platform using Strong references and structured domain modeling.
+
+---
+
+## 🏗 Architecture Mindset
+
+- Clean Architecture
+- Domain-Driven Design
+- Feature-Sliced Frontend
+- Multi-tenant SaaS modeling
+- Row Level Security (PostgreSQL)
+- Real-time systems with WebSockets
+- AI-assisted development workflows
+
+---
+
+## 🛠 Tech Stack
 
 Frontend:
 - TypeScript
-- Angular / React
+- React / Angular
 - Vite
-- Clean Architecture structure
+- Zustand
+- React Query
+- Tailwind + shadcn/ui
 
 Backend:
-- NestJS
 - Node.js
+- NestJS / Express
+- Supabase
 - PostgreSQL
-- Supabase / Firebase
+- Socket.IO
 
 Conceptual:
-- SOLID principles
-- Domain-Driven Design
+- SOLID
 - SaaS multi-tenancy
-- AI-assisted workflows
+- RBAC
+- CI/CD pipelines
+- Security-first database modeling
 
 ---
 
-## Development Philosophy
+## 🧠 Development Philosophy
 
-I use AI as a co-pilot to accelerate development, but architectural decisions and system structure are intentionally designed.
+I use AI as a development accelerator — not as a replacement for architectural thinking.
 
-The goal is building real products, not just writing code.
-
----
-
-## Background
-
-15+ years in retail and operations management.
-Transitioning into software engineering with focus on product-driven SaaS systems.
+Every project is structured with scalability, isolation and product viability in mind.
 
 ---
 
-## Currently Learning
+## 🎯 Career Focus
 
-- Advanced backend patterns
-- Scalable multi-tenant architecture
-- Production-grade DevOps
-- Testing strategies for SaaS
+Seeking:
+- Junior Backend / Full-Stack roles
+- Startup SaaS environments
+- AI-assisted engineering teams
+- Architecture-oriented product teams
 
 ---
 
-## Open To
-
-- Junior Backend / Full Stack positions
-- AI-assisted development teams
-- Startup environments
-- SaaS product teams
+15+ years in retail operations.
+Now building scalable SaaS systems with a product-first mindset.
